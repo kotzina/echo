@@ -1,4 +1,4 @@
-package com.airhacks;
+package at.echo.web;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
